@@ -1,0 +1,36 @@
+{
+  "id": "ICA11F4D1",
+  "title": {
+    "BO": "དགོངས་པ་རབ་གསལ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤",
+    "EN": "Illuminating the Intent Chapter 6, verses 1 to 64 Literal Translation, Monlam AI, February 2025"
+  },
+  "author": {
+    "EN": "DPO and Claude-3-5-sonnet-20241022"
+  },
+  "imported": "2025-02-04T19:23:50.801874",
+  "source": null,
+  "toolkit_version": "0.0.1",
+  "parser": "DocxNumberListCommentaryParser",
+  "initial_creation_type": "google_docx",
+  "language": "en",
+  "source_metadata": {
+    "title_short": {
+      "BO": "དགོངས་པ་རབ་གསལ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤",
+      "EN": "Illuminating the Intent Chapter 6, verses 1 to 64 Literal Translation, Monlam AI, February 2025"
+    },
+    "commentary_of": "I41B73129",
+    "commentary_alignments": [
+      {
+        "source": "I41B73129/layers/E0E6/Tibetan_Segment-04B1.json",
+        "target": "ICA11F4D1/layers/6837/Meaning_Segment-4EC1.json"
+      }
+    ]
+  },
+  "bases": [],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
